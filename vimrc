@@ -556,4 +556,16 @@ if !g:remoteSession
   let g:airline_powerline_fonts=1
 endif
 
+" ================== abbreviations =======================
+cnoreabbrev W! w!
+cnoreabbrev Q! q!
+cnoreabbrev Qall! qall!
+cnoreabbrev Wq wq
+cnoreabbrev Wa wa
+cnoreabbrev wQ wq
+cnoreabbrev WQ wq
+cnoreabbrev W w
+cnoreabbrev Q q
+cnoreabbrev Qall qall
+
 " vim:ts=2:sw=2:et
