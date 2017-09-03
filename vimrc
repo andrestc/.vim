@@ -568,4 +568,6 @@ cnoreabbrev W w
 cnoreabbrev Q q
 cnoreabbrev Qall qall
 
+source ~/.vim/plugins/cscope.vim
+
 " vim:ts=2:sw=2:et
